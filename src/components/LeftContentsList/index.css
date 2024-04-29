@@ -1,0 +1,11 @@
+.liItems{
+    list-style: none;
+}
+.folderbtn{
+    background-color: transparent;
+    border: 0;
+    margin-top: 5px;
+}
+.litot{
+    display: flex;
+}

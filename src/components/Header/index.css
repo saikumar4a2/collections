@@ -1,0 +1,24 @@
+.headContaier{
+    height: 50px;
+    width: 100%;
+    background-color: #f7f7f7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.linkItem{
+    text-decoration: none;
+    margin-left: 10px;
+}
+.secCon{
+    display: flex;
+}
+.allContents{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.logo{
+    margin-top: 20px;
+}
